@@ -155,7 +155,7 @@ public class TemperaturaController extends CambioDeVistasController implements I
                     resultado = 4 * (cantidadTemperatura - 491.67f) / 9;
                 }
             }
-            case "e" -> {
+            case "Re" -> {
                 if (to.equals("C")) {
                     resultado = cantidadTemperatura / 0.8f;
                 }
