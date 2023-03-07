@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>demoJavaFX2</artifactId>
+    <artifactId>challengeoracleone</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>demoJavaFX2</name>
+    <name>challengeoracleone</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
