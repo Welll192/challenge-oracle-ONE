@@ -22,7 +22,7 @@ Software que permite la conversión entre divisas, temperaturas y masas.
 <br> Ejemplo:
 ![img.png](img.png)
 ## ✅ Tecnologías utilizdas
-- `Java 8`
+- `Java 18`
 - `Java FX`
 - `okhttp`
 - `json`
@@ -30,6 +30,10 @@ Software que permite la conversión entre divisas, temperaturas y masas.
 ## 📷 Demo
 
 ![demo](demochallenge.gif)
+
+## 🔧 Ejecutable JAR
+- instalar: https://download.oracle.com/java/18/archive/jdk-18.0.2.1_windows-x64_bin.exe (sha256)
+Para poder ejecutar el archivo jar.
 
 ## Autores
 [<img src="https://avatars.githubusercontent.com/Welll192" width=115><br><sub>Maxwel Paredes</sub>](https://github.com/Welll192)
